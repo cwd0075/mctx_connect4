@@ -7,8 +7,10 @@ Origin from:
 https://github.com/Carbon225/mctx-classic  
 https://github.com/google-deepmind/mctx  
 
-MCTX-az, continue new search leaf node by re-using previous populated search tree. It run faster but it lose to the above origin  
+MCTX-az, continue new search leaf node by re-using previous populated search tree. It run faster, but it lose to the above original. It use alphazero_policy and get_subtree function of mctx  
 https://github.com/lowrollr/mctx-az/blob/main/connect4.ipynb   
 
 MCTX to play the pgx Connect 4 environment  
 https://github.com/sotetsuk/pgx/blob/main/colab/mcts_connect_four.ipynb  
+
+Other details, please find my UpNote title MCTX  
